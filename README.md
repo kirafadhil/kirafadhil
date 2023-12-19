@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fadhil
 - 👀 I’m interested in information technology
-- 🌱 I’m currently learning backend fundamental path
+- 🌱 Focused on business analysis and the design of ERP solutions based on Odoo.
 
 <!---
 kirafadhil/kirafadhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
